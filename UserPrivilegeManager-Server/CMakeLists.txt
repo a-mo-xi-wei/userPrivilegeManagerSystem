@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(UserPrivilegeManager-Server VERSION 1.0 LANGUAGES CXX)
+
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTORCC ON)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON) 
+
+find_package(Qt6 REQUIRED Core Sql HttpServer)
+
+file(GLOB USER_PRIVILEGE_SERVER__SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp)
+file(GLOB USER_PRIVILEGE_SERVER__HEADERS ${CMAKE_CURRENT_SOURCE_DIR}/*.h)
+
+#message(STATUS "-----------------" ${CMAKE_CURRENT_SOURCE_DIR} ${USER_PRIVILEGE_SERVER__SOURCES})
+
+add_executable(${PROJECT_NAME} ${USER_PRIVILEGE_SERVER__SOURCES})
+
+
+target_link_libraries(${PROJECT_NAME} PRIVATE Qt6::Core Qt6::Sql Qt6::HttpServer Util SJwt QsLog)

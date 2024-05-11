@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/UserPrivilegeManager-Client/LoginRegister/LoginRegister_autogen",
+	"CMAKE_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/UserPrivilegeManager-Client/LoginRegister",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister",
+	"CMAKE_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/UserPrivilegeManager-Client/LoginRegister/LoginRegister_autogen/include",
+	"INPUTS" : 
+	[
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/down-arrow.png",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/cai.png",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/check.png",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/dream.png",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/close-hover.png",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/style.css",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/uncheck.png",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/jxauedu.png",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res/close.png"
+	],
+	"LOCK_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/UserPrivilegeManager-Client/LoginRegister/CMakeFiles/LoginRegister_autogen.dir/AutoRcc_LoginRegister_Res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "LoginRegister_Res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_LoginRegister_Res.cpp",
+	"RCC_EXECUTABLE" : "F:/Qt/6.5.2/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/UserPrivilegeManager-Client/LoginRegister/CMakeFiles/LoginRegister_autogen.dir/AutoRcc_LoginRegister_Res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/LoginRegister/LoginRegister_Res.qrc",
+	"VERBOSITY" : 0
+}

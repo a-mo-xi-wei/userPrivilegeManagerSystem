@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LoginRegister_Res/cai.png</file>
+        <file>LoginRegister_Res/check.png</file>
+        <file>LoginRegister_Res/close.png</file>
+        <file>LoginRegister_Res/close-hover.png</file>
+        <file>LoginRegister_Res/down-arrow.png</file>
+        <file>LoginRegister_Res/dream.png</file>
+        <file>LoginRegister_Res/style.css</file>
+        <file>LoginRegister_Res/uncheck.png</file>
+        <file>LoginRegister_Res/jxauedu.png</file>
+    </qresource>
+</RCC>

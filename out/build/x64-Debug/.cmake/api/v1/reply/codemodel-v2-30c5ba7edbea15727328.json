@@ -1,0 +1,543 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						9
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Util",
+					"jsonFile" : "directory-Util-Debug-0886e87680ba47df368e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Util",
+					"targetIndexes" : 
+					[
+						24,
+						25,
+						26
+					]
+				},
+				{
+					"build" : "SWidget",
+					"jsonFile" : "directory-SWidget-Debug-22d32939790c76e323cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "SWidget",
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "SJwt",
+					"jsonFile" : "directory-SJwt-Debug-a0c823f3396d06b80861.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "SJwt",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "ThirdParty/QsLog",
+					"jsonFile" : "directory-ThirdParty.QsLog-Debug-298fe4abcd5541c3f031.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "ThirdParty/QsLog",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "ThirdParty/QXlsx",
+					"jsonFile" : "directory-ThirdParty.QXlsx-Debug-eca93c9499dd8766d422.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "ThirdParty/QXlsx",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "UserPrivilegeManager-Client",
+					"childIndexes" : 
+					[
+						7,
+						8
+					],
+					"jsonFile" : "directory-UserPrivilegeManager-Client-Debug-7730baf7d05a27e9e54f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "UserPrivilegeManager-Client",
+					"targetIndexes" : 
+					[
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "UserPrivilegeManager-Client/LoginRegister",
+					"jsonFile" : "directory-UserPrivilegeManager-Client.LoginRegister-Debug-97cb3ec72a9bb5d35b06.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 7,
+					"source" : "UserPrivilegeManager-Client/LoginRegister",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "UserPrivilegeManager-Client/SubPage",
+					"jsonFile" : "directory-UserPrivilegeManager-Client.SubPage-Debug-c65fe836f5f2b48ec628.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 8,
+					"source" : "UserPrivilegeManager-Client/SubPage",
+					"targetIndexes" : 
+					[
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "UserPrivilegeManager-Server",
+					"jsonFile" : "directory-UserPrivilegeManager-Server-Debug-5d3b39b0366ee67adcd4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "UserPrivilegeManager-Server",
+					"targetIndexes" : 
+					[
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UserPrivilegeManagerSystem"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Util",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						24,
+						25,
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "SWidget",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "SJwt",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "QsLog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "QXlsx",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						7,
+						8
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "UserPrivilegeManager-Client",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "LoginRegister",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "SubPage",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "UserPrivilegeManager-Server",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 7,
+					"id" : "LoginRegister::@d17b404fc65bf79dfc09",
+					"jsonFile" : "target-LoginRegister-Debug-9fcb6c90fa111080caea.json",
+					"name" : "LoginRegister",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "LoginRegister_autogen::@d17b404fc65bf79dfc09",
+					"jsonFile" : "target-LoginRegister_autogen-Debug-65506549f561a8073d4e.json",
+					"name" : "LoginRegister_autogen",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "LoginRegister_autogen_timestamp_deps::@d17b404fc65bf79dfc09",
+					"jsonFile" : "target-LoginRegister_autogen_timestamp_deps-Debug-70ea191817e8ae28c236.json",
+					"name" : "LoginRegister_autogen_timestamp_deps",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QXlsx::@e81f96ff78754bf7731d",
+					"jsonFile" : "target-QXlsx-Debug-47b13f21f99ed63a7e73.json",
+					"name" : "QXlsx",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QXlsx_autogen::@e81f96ff78754bf7731d",
+					"jsonFile" : "target-QXlsx_autogen-Debug-5d4ea83a1bed834c776c.json",
+					"name" : "QXlsx_autogen",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QXlsx_autogen_timestamp_deps::@e81f96ff78754bf7731d",
+					"jsonFile" : "target-QXlsx_autogen_timestamp_deps-Debug-45d3918344a4716ea17e.json",
+					"name" : "QXlsx_autogen_timestamp_deps",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QsLog::@d72246956cf9fc999241",
+					"jsonFile" : "target-QsLog-Debug-7ce900e8e1fc153643c1.json",
+					"name" : "QsLog",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QsLog_autogen::@d72246956cf9fc999241",
+					"jsonFile" : "target-QsLog_autogen-Debug-34c48ae5c991e122391e.json",
+					"name" : "QsLog_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QsLog_autogen_timestamp_deps::@d72246956cf9fc999241",
+					"jsonFile" : "target-QsLog_autogen_timestamp_deps-Debug-eb3ecb78e9da812290d4.json",
+					"name" : "QsLog_autogen_timestamp_deps",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "SJwt::@e178d2d3e4a541e8a410",
+					"jsonFile" : "target-SJwt-Debug-cd532095844c7efaa2a8.json",
+					"name" : "SJwt",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "SJwt_autogen::@e178d2d3e4a541e8a410",
+					"jsonFile" : "target-SJwt_autogen-Debug-e01f099d84cf6a040a4d.json",
+					"name" : "SJwt_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "SJwt_autogen_timestamp_deps::@e178d2d3e4a541e8a410",
+					"jsonFile" : "target-SJwt_autogen_timestamp_deps-Debug-a3286ffb93f3eab3fd1c.json",
+					"name" : "SJwt_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SWidget::@86a84c088d51183ca202",
+					"jsonFile" : "target-SWidget-Debug-42219b11a0fccba62026.json",
+					"name" : "SWidget",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SWidget_autogen::@86a84c088d51183ca202",
+					"jsonFile" : "target-SWidget_autogen-Debug-cd0d5aaece50a850460c.json",
+					"name" : "SWidget_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SWidget_autogen_timestamp_deps::@86a84c088d51183ca202",
+					"jsonFile" : "target-SWidget_autogen_timestamp_deps-Debug-ee7e5d24a2c0e9145ff9.json",
+					"name" : "SWidget_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "SubPage::@616d9a88e5bb7b9f3dda",
+					"jsonFile" : "target-SubPage-Debug-0c1ac64041f717057bc2.json",
+					"name" : "SubPage",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "SubPage_autogen::@616d9a88e5bb7b9f3dda",
+					"jsonFile" : "target-SubPage_autogen-Debug-007b49bf253afd149415.json",
+					"name" : "SubPage_autogen",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "SubPage_autogen_timestamp_deps::@616d9a88e5bb7b9f3dda",
+					"jsonFile" : "target-SubPage_autogen_timestamp_deps-Debug-f6f1bd68ef3685eb9529.json",
+					"name" : "SubPage_autogen_timestamp_deps",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "UserPrivilegeManager-Client::@7341a4ff392dbce95540",
+					"jsonFile" : "target-UserPrivilegeManager-Client-Debug-817f0fb0d2abf56ff8d0.json",
+					"name" : "UserPrivilegeManager-Client",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "UserPrivilegeManager-Client_autogen::@7341a4ff392dbce95540",
+					"jsonFile" : "target-UserPrivilegeManager-Client_autogen-Debug-907b5cecb307e194be08.json",
+					"name" : "UserPrivilegeManager-Client_autogen",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "UserPrivilegeManager-Client_autogen_timestamp_deps::@7341a4ff392dbce95540",
+					"jsonFile" : "target-UserPrivilegeManager-Client_autogen_timestamp_deps-Debug-fb8d40778fcd08ae3b85.json",
+					"name" : "UserPrivilegeManager-Client_autogen_timestamp_deps",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "UserPrivilegeManager-Server::@c859625d64cdcc6ee2ea",
+					"jsonFile" : "target-UserPrivilegeManager-Server-Debug-82d8c387a37e3b917e44.json",
+					"name" : "UserPrivilegeManager-Server",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "UserPrivilegeManager-Server_autogen::@c859625d64cdcc6ee2ea",
+					"jsonFile" : "target-UserPrivilegeManager-Server_autogen-Debug-5abbc8bcb10d95df23ea.json",
+					"name" : "UserPrivilegeManager-Server_autogen",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "UserPrivilegeManager-Server_autogen_timestamp_deps::@c859625d64cdcc6ee2ea",
+					"jsonFile" : "target-UserPrivilegeManager-Server_autogen_timestamp_deps-Debug-a5c4b4395d9b17add6b3.json",
+					"name" : "UserPrivilegeManager-Server_autogen_timestamp_deps",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Util::@985804b4fac11ee930c3",
+					"jsonFile" : "target-Util-Debug-20fd2d411b5f788d7dce.json",
+					"name" : "Util",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Util_autogen::@985804b4fac11ee930c3",
+					"jsonFile" : "target-Util_autogen-Debug-4b718beee20d4b96e999.json",
+					"name" : "Util_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Util_autogen_timestamp_deps::@985804b4fac11ee930c3",
+					"jsonFile" : "target-Util_autogen_timestamp_deps-Debug-ae9877523312c302da18.json",
+					"name" : "Util_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug",
+		"source" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

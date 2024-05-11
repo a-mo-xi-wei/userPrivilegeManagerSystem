@@ -1,0 +1,706 @@
+{
+	"BUILD_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx/QXlsx_autogen",
+	"CMAKE_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx",
+	"CMAKE_EXECUTABLE" : "E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/CMakeLists.txt",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeature.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindThreads.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFileCXX.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeature.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/FindWrapAtomic.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/QtInstallPaths.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindVulkan.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-debug.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem",
+	"DEP_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx/QXlsx_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QXlsx_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxabstractooxmlfile.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractooxmlfile.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxabstractooxmlfile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractooxmlfile_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxabstractsheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractsheet.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxabstractsheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractsheet_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcell.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcell.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcell_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcell_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcellformula.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellformula.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcellformula_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellformula_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcelllocation.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcelllocation.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcellrange.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellrange.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcellreference.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellreference.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxchart.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchart.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxchart_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchart_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxchartsheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchartsheet.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxchartsheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchartsheet_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcolor_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcolor_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxconditionalformatting.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxconditionalformatting.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxconditionalformatting_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxconditionalformatting_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxcontenttypes_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcontenttypes_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdatavalidation.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatavalidation.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdatavalidation_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatavalidation_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdatetype.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatetype.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdocpropsapp_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocpropsapp_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdocpropscore_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocpropscore_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdocument.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocument.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdocument_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocument_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdrawing_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdrawing_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxdrawinganchor_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdrawinganchor_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxformat.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxformat.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxformat_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxformat_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxglobal.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxglobal.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxmediafile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxmediafile_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxnumformatparser_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxnumformatparser_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxrelationships_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrelationships_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxrichstring.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrichstring.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxrichstring_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrichstring_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxsharedstrings_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxsharedstrings_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxsimpleooxmlfile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxsimpleooxmlfile_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxstyles_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxstyles_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxtheme_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxtheme_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxutility_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxutility_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxworkbook.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworkbook.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxworkbook_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworkbook_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxworksheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworksheet.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxworksheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworksheet_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxzipreader_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxzipreader_p.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header/xlsxzipwriter_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxzipwriter_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx/QXlsx_autogen/include",
+	"MOC_COMPILATION_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx/QXlsx_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QXLSX_LIBRARY",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtCore",
+		"F:/Qt/6.5.2/msvc2019_64/include",
+		"F:/Qt/6.5.2/msvc2019_64/mkspecs/win32-msvc",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtGui/6.5.2",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtGui/6.5.2/QtGui",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtCore/6.5.2",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtCore/6.5.2/QtCore",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtGui"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx/CMakeFiles/QXlsx_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "F:/Qt/6.5.2/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "F:/Qt/6.5.2/msvc2019_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/ThirdParty/QXlsx/CMakeFiles/QXlsx_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxabstractooxmlfile.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxabstractsheet.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxcell.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxcellformula.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxcelllocation.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxcellrange.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxcellreference.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxchart.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxchartsheet.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxcolor.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxconditionalformatting.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxcontenttypes.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxdatavalidation.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxdatetype.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxdocpropsapp.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxdocpropscore.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxdocument.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxdrawing.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxdrawinganchor.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxformat.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxmediafile.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxnumformatparser.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxrelationships.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxrichstring.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxsharedstrings.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxsimpleooxmlfile.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxstyles.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxtheme.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxutility.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxworkbook.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxworksheet.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxzipreader.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/source/xlsxzipwriter.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

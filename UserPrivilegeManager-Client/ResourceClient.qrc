@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ResourceClient/privilege.png</file>
+        <file>ResourceClient/privilege_header.png</file>
+        <file>ResourceClient/role.png</file>
+        <file>ResourceClient/user.png</file>
+        <file>ResourceClient/windowIcon.ico</file>
+        <file>ResourceClient/default_avatar.jpg</file>
+        <file>ResourceClient/double-left.png</file>
+        <file>ResourceClient/double-right.png</file>
+        <file>ResourceClient/next.png</file>
+        <file>ResourceClient/pre.png</file>
+        <file>ResourceClient/fanhui.png</file>
+        <file>ResourceClient/bianji.png</file>
+        <file>ResourceClient/chongzhi.png</file>
+        <file>ResourceClient/shanchu.png</file>
+        <file>ResourceClient/sousuo.png</file>
+        <file>ResourceClient/xiugai.png</file>
+        <file>ResourceClient/piliangjinyong.png</file>
+        <file>ResourceClient/piliangqiyong.png</file>
+        <file>ResourceClient/piliangshanchu.png</file>
+        <file>ResourceClient/daochu.png</file>
+        <file>ResourceClient/tiaozhuan.png</file>
+        <file>ResourceClient/tianjiayonghu.png</file>
+        <file>ResourceClient/shanchu_black.png</file>
+        <file>ResourceClient/piliangdaoru.png</file>
+        <file>ResourceClient/dantiaodaoru.png</file>
+        <file>ResourceClient/wuquan.png</file>
+        <file>ResourceClient/404.png</file>
+        <file>ResourceClient/exportSuccess.png</file>
+        <file>ResourceClient/yonghuzhongxin.png</file>
+        <file>ResourceClient/backLogin.png</file>
+        <file>ResourceClient/black.css</file>
+        <file>ResourceClient/pink.css</file>
+        <file>ResourceClient/white.css</file>
+        <file>ResourceClient/black.png</file>
+        <file>ResourceClient/pink.png</file>
+        <file>ResourceClient/white.png</file>
+        <file>ResourceClient/backFace.png</file>
+        <file>ResourceClient/changeFace.png</file>
+        <file>ResourceClient/up.png</file>
+        <file>ResourceClient/style.css</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,70 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"UserPrivilegeManager-Server/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "Util::@985804b4fac11ee930c3"
+		},
+		{
+			"id" : "SJwt::@e178d2d3e4a541e8a410"
+		},
+		{
+			"id" : "QsLog::@d72246956cf9fc999241"
+		}
+	],
+	"id" : "UserPrivilegeManager-Server_autogen_timestamp_deps::@c859625d64cdcc6ee2ea",
+	"isGeneratorProvided" : true,
+	"name" : "UserPrivilegeManager-Server_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "UserPrivilegeManager-Server",
+		"source" : "UserPrivilegeManager-Server"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/UserPrivilegeManager-Server/CMakeFiles/UserPrivilegeManager-Server_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/UserPrivilegeManager-Server/CMakeFiles/UserPrivilegeManager-Server_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

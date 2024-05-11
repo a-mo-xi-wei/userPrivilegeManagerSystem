@@ -1,0 +1,215 @@
+{
+	"BUILD_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug/UserPrivilegeManager-Client/SubPage/SubPage_autogen",
+	"CMAKE_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug/UserPrivilegeManager-Client/SubPage",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage",
+	"CMAKE_EXECUTABLE" : "E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/CMakeLists.txt",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeature.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"E:/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"F:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem",
+	"DEP_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug/UserPrivilegeManager-Client/SubPage/SubPage_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "SubPage_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/PAddEditDlg.h",
+			"MU",
+			"EWIEGA46WW/moc_PAddEditDlg.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/PManagerPage.h",
+			"MU",
+			"EWIEGA46WW/moc_PManagerPage.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/PersonalPage.h",
+			"MU",
+			"EWIEGA46WW/moc_PersonalPage.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/RoleManagerPage.h",
+			"MU",
+			"EWIEGA46WW/moc_RoleManagerPage.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserAddDlg.h",
+			"MU",
+			"EWIEGA46WW/moc_UserAddDlg.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserDetailsDlg.h",
+			"MU",
+			"EWIEGA46WW/moc_UserDetailsDlg.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserEditDlg.h",
+			"MU",
+			"EWIEGA46WW/moc_UserEditDlg.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserManagerPage.h",
+			"MU",
+			"EWIEGA46WW/moc_UserManagerPage.cpp",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserResetPasswdDlg.h",
+			"MU",
+			"EWIEGA46WW/moc_UserResetPasswdDlg.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug/UserPrivilegeManager-Client/SubPage/SubPage_autogen/include",
+	"MOC_COMPILATION_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug/UserPrivilegeManager-Client/SubPage/SubPage_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_OPENGLWIDGETS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_UITOOLS_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/Util",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/SWidget",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/SWidget/SItemDelegate",
+		"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/ThirdParty/QXlsx/header",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtWidgets",
+		"F:/Qt/6.5.2/msvc2019_64/include",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtCore",
+		"F:/Qt/6.5.2/msvc2019_64/mkspecs/win32-msvc",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtGui",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtUiTools",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtOpenGLWidgets",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtOpenGL",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtNetwork",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtGui/6.5.2",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtGui/6.5.2/QtGui",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtCore/6.5.2",
+		"F:/Qt/6.5.2/msvc2019_64/include/QtCore/6.5.2/QtCore"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug/UserPrivilegeManager-Client/SubPage/CMakeFiles/SubPage_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "F:/Qt/6.5.2/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "F:/Qt/6.5.2/msvc2019_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/out/build/x64-Debug/UserPrivilegeManager-Client/SubPage/CMakeFiles/SubPage_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/PAddEditDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/PManagerPage.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/PersonalPage.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/RoleManagerPage.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserAddDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserDetailsDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserEditDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserManagerPage.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/code_review/Qt-WorkSpace/fight/UserPrivilegeManagerSystem/UserPrivilegeManager-Client/SubPage/UserResetPasswdDlg.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,333 @@
+﻿/*@@@@@ 通用设置 */
+QWidget {
+    background-color: white;
+    color: black;
+}
+QLabel{
+    background-color: transparent;
+}
+QLineEdit {
+    border-radius: 10px; /* 设置边框圆角*/
+    padding: 0 8px; /* 设置上下填充0，左右填充8*/
+    selection-background-color: darkgray; /* 设置选中文本的背景色*/
+}
+QLineEdit:hover {
+    border: 2px solid black; /* 设置边框*/
+}
+/*@@@@@ QTableView样式(PagingTableView)*/
+QTableView {
+    background-color: rgb(255,255,255);
+}
+/*--设置表头颜色*/
+QTableView QHeaderView::section {
+    border: none;
+    background-color: rgb(255,255,255);
+    color: black;
+}
+/*左上角单元格*/
+QTableView QTableCornerButton::section {
+    background-color: rgb(255,255,255);
+}
+/*--鼠标悬停在表头上某个列上*/
+QTableView QHeaderView::section:hover {
+    background-color: rgb(188,220,244);
+}
+
+/*--每个单元格设置 */
+QTableView::item {
+    border: none;
+    height: 30px;
+    background-color: rgb(240,240,240);
+}
+/*--单元格选中颜色*/
+/*QTableView::item:selected {
+    background-color: rgb(200,200,200);
+    selection-color: black;*/ /*文字颜色*/
+/*}*/
+/*--交替变色，另一行*/
+/*QTableView::item:alternate:!selected {
+    background-color: rgb(218,223,225);
+}*/
+
+/*@@@@@ QTreeView */
+QTreeView {
+    background-color: white;
+    show-decoration-selected: 1; /*设计item一行中的branch和item为一个整体，默认为0*/
+    font: normal 13pt "JetBrains Mono";
+}
+
+QTreeView QHeaderView::section {
+    border: none;
+    background-color: white;
+    font: normal 15pt "JetBrains Mono";
+    color: white;
+}
+
+QTreeView::item {
+    border: none;
+    height: 50px;
+    color: white;
+}
+
+/*--鼠标悬停*/
+QTreeView::item:hover,
+QTreeView::branch:hover {
+    background-color: rgb(210,210,210);
+}
+
+/*--选中item时，item和前面的branch显示一样的颜色*/
+QTreeView::item:selected,
+QTreeView::branch:selected {
+    background-color: rgb(123,123,123);
+}
+
+/*--鼠标悬停，并选中*/
+/*QTreeView::item:selected:hover,
+QTreeView::branch:selected:hover {
+    background-color: rgb(210,210,210);
+}*/
+
+/*@@@@@@@设置水平滑动条的样式 */
+
+QScrollBar:horizontal {
+    border: 1px solid rgb(240,240,240);
+    background: rgb(240,240,240);
+    height: 10px;
+    margin: 0px 20px 0 20px;
+}
+/*--设置滑动条滑块样式*/
+QScrollBar::handle:horizontal {
+    background: rgb(200,201,204);
+    border-radius:4px;
+}
+QScrollBar::handle:horizontal:hover {
+    background: rgb(168,170,173);
+}
+
+/*@@@@@@@设置垂直滑动条样式*/
+QScrollBar:vertical {
+    border: 1px solid rgb(240,240,240);
+    background: rgb(240,240,240);
+    width: 10px;
+    margin: 20px 0px 20px 0px;
+}
+/*--设置滑动条滑块样式*/
+QScrollBar::handle:vertical {
+    background: rgb(200,201,204);
+    border-radius:4px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background: rgb(168,170,173);
+}
+
+/*@@@@@菜单*/
+QMenu {
+    background-color: rgba(255,255,255,230);
+    margin: 6px; /* some spacing around the menu */
+    padding-top:6px;
+    padding-bottom:6px;
+    border-radius:6px;
+ }
+QMenu::item {
+    padding: 2px 25px 2px 20px;
+    border: 1px solid transparent; /* reserve space for selection border */
+}
+QMenu::item:selected {
+    background: rgba(230, 230, 230, 230);
+}
+
+QMenu::separator {
+    height: 1px;
+    background: rgb(236,236,236);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+QMenu::indicator {
+    padding-left:15px;
+    width:13px;
+    height:13px;
+}
+
+/*ToolBar——分页工具栏*/
+/*QWidget#toolBar {
+    background-color: rgb(240,240,240);
+}
+
+QWidget#toolBar QComboBox,
+QWidget#toolBar QDateEdit,
+QWidget#toolBar QLineEdit {
+    border-radius: 5px;
+    min-width: 100px;
+    max-width: 150px;
+    height: 25px;
+}
+
+QWidget#toolBar QPushButton {
+    width: 32px;
+    height: 32px;
+}
+
+QPushButton#openFileBtn {
+    icon: url(':/assets/images/tool/add.png');
+    min-width: 60px;
+}
+
+QPushButton#entryBtn {
+    icon: url(':/assets/images/tool/entry.png');
+    min-width: 60px;
+}
+
+QPushButton#searchBtn {
+    icon: url(':/assets/images/tool/search.png');
+    min-width: 60px;
+}
+
+QPushButton#delBtn {
+    icon: url(':/assets/images/tool/delete.png');
+    min-width: 60px;
+}
+
+QPushButton#exportBtn {
+    icon: url(':/assets/images/tool/export.png');
+    min-width: 60px;
+}*/
+
+/* PagingBar——分页栏*/
+/*QWidget#pagingBar QPushButton {
+    width: 32px;
+    height: 32px;
+}
+
+/*@@@@@ 设置界面 settingsDlg */
+/*-- 导航 */
+/*QDialog#settingsDlg QWidget#navBar {
+    min-width: 130px;
+    background-color: rgb(245,245,245);
+}
+
+QDialog#settingsDlg QWidget#navBar QPushButton {
+    width: 100px;
+    height: 35px;
+    border-radius: 8px;
+}
+
+QDialog#settingsDlg QWidget#navBar QPushButton:hover {
+    background-color: rgb(229,230,235);
+}
+
+QDialog#settingsDlg QWidget#navBar QPushButton:checked {
+    background-color: rgb(247, 238, 240);
+    color: rgb(255,88,77);
+}*/
+
+/*-- 内容页*/
+/*QDialog#settingsDlg .QWidget {
+    background-color: white;
+}
+
+QDialog#settingsDlg QWidget#titleBar {
+    background-color: white;
+    min-height: 32px;
+    max-height: 32px;
+}
+
+QDialog#settingsDlg QWidget#titleBar QPushButton#closeBtn {
+    image: url(':/assets/images/quit.png');
+    width: 45px;
+    min-height: 32px;
+    max-height: 32px;
+}
+
+QDialog#settingsDlg QWidget#titleBar QPushButton#closeBtn:hover {
+    background-color: red;
+}*/
+
+
+
+QPushButton {
+    background-color: #C0C0C0;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    padding: 5px;
+}
+
+QPushButton::menu-indicator {
+    subcontrol-position: right center;
+    subcontrol-origin: padding;
+    width: 10px;
+    height: 10px;
+}
+
+QPushButton#changeFace::menu-indicator {
+    image: url(:/ResourceClient/up.png);
+    subcontrol-position: right center;
+    subcontrol-origin: padding;
+    width: 10px;
+    height: 10px;
+}
+
+QPushButton:hover {
+    background-color: #CCFF66;
+}
+
+QPushButton#OK {
+    border: none;
+    background-color: #99FFCC;
+    color: black;
+    border-radius: 8px;
+    width: 120px;
+    height: 30px;
+}
+
+QPushButton#OK:hover {
+    background-color: #99FF00;
+}
+
+QPushButton#NO {
+    border: none;
+    background-color: #FF66FF;
+    color: black;
+    border-radius: 8px;
+    width: 120px;
+    height: 30px;
+}
+
+QPushButton#NO:hover {
+    background-color: #FF0066;
+}
+
+/*消息提示框*/
+QMessageBox {
+    background-color: #FFFF99;
+    border-radius: 3px;
+}
+
+QMessageBox QLabel {
+    font-family: '华文行楷';
+    font-size: 20px;
+    color: #FF9933;
+    padding-left: 0px;
+    padding-top: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+QMessageBox QPushButton {
+    background-color: #99FF33;
+    color: black;
+    width: 40px;
+    height: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #CCFF33;
+}
+
+
+
