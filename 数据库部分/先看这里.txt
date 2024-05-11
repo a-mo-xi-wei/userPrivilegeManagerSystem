@@ -1,0 +1,10 @@
+attention！ 请注意！本作品基于MySQL数据库，所以一切的前提是已经安装好MySQL数据库，并且密码设置为123456789。
+
+如何设置密码 ： win + R 打开DOS窗口，输入 mysql -u root -p  按下回车，输入自己的密码后按下回车，之后再键入以下命令：
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY '123456789'; （回车）
+
+FLUSH PRIVILEGES;（回车）
+
+然后安装 ： navicat_x64.exe
+进入Navcat 后 ： ①点击连接②点击MySQL③连接名随意④ 密码为123456789⑤点击确定
